@@ -1,0 +1,12 @@
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.deps.json
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.dll
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.pdb
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.AssemblyReference.cache
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfoInputs.cache
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfo.cs
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.dll
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
+D:\Documentos\AngieMelissa - personal\BackEnd WWC bootcamp\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll
